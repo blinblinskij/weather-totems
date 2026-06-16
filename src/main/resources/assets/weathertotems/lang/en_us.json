@@ -1,0 +1,13 @@
+{
+  "itemGroup.weathertotems": "Example Mod Tab",
+  "block.weathertotems.example_block": "Example Block",
+  "item.weathertotems.example_item": "Example Item",
+
+  "weathertotems.configuration.title": "Weather Totems Configs",
+  "weathertotems.configuration.section.weathertotems.common.toml": "Weather Totems Configs",
+  "weathertotems.configuration.section.weathertotems.common.toml.title": "Weather Totems Configs",
+  "weathertotems.configuration.items": "Item List",
+  "weathertotems.configuration.logDirtBlock": "Log Dirt Block",
+  "weathertotems.configuration.magicNumberIntroduction": "Magic Number Text",
+  "weathertotems.configuration.magicNumber": "Magic Number"
+}
